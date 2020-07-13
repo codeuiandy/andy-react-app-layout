@@ -1,0 +1,8 @@
+.centerT {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	width: 80vw;
+	margin: auto;
+	height: 900px;
+}
